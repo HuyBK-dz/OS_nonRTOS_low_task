@@ -1,0 +1,12 @@
+../Core/Src/main.c:65:8:get_used_ram_size	24	static
+../Core/Src/main.c:81:10:day_fibonaci	24	static
+../Core/Src/main.c:96:6:task1_handler	24	static
+../Core/Src/main.c:106:6:task2_handler	24	static
+../Core/Src/main.c:116:6:task3_handler	24	static
+../Core/Src/main.c:126:6:task4_handler	24	static
+../Core/Src/main.c:136:6:task5_handler	24	static
+../Core/Src/main.c:152:5:main	8	static
+../Core/Src/main.c:200:6:SystemClock_Config	88	static
+../Core/Src/main.c:247:13:MX_USART2_UART_Init	8	static
+../Core/Src/main.c:278:13:MX_GPIO_Init	48	static
+../Core/Src/main.c:313:6:Error_Handler	4	static,ignoring_inline_asm
